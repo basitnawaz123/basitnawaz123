@@ -31,6 +31,9 @@ I work full-time as a freelancer — available for both short- and long-term pro
 
 ## 📫 Let's Connect
 
-- 🌍 Portfolio: [basitnawaz.com](https://basitnawaz.com)  
+- 🌍 Portfolio: [basitnawaz.com](https://basitnawaz.com)
+- 🌍 Portfolio: [thequicksol.co](https://thequicksol.co)
 - 💼 LinkedIn: [linkedin.com/in/basitnawaz](https://linkedin.com/in/basitnawaz)  
-- ✉️ Email: hello@thequicksol.co  
+- ✉️ Email: thequicksol@gmail.com
+- ✉️ Email: basitnawaz507@gmail.com
+- 💬 WhatsApp: [Click to Chat](https://wa.me/923415565407)
