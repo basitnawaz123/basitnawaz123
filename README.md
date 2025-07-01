@@ -4,12 +4,12 @@ I'm a **Full Stack Web Developer** and a **full-time freelancer** based in Pakis
 
 ## 💼 What I Do
 
-- ⚛️ Frontend: React.js, Next.js, TypeScript, Styled Components, Bootstrap  
+- ⚛️ Frontend: React.js, Next.js, Redux, RTK, React Query, TypeScript, Styled Components, Bootstrap, Tailwind
 - 🌐 Backend: Node.js, NestJS, Express.js, PHP (Laravel)  
 - 🧠 Database: MongoDB, PostgreSQL, MySQL, SQL Server  
-- ☁️ DevOps: AWS (Cognito, S3), Vercel, Heroku  
+- ☁️ DevOps: AWS (Cognito, S3), Vercel, Heroku, Netlify, VPS
 - 📦 APIs: REST, GraphQL, 3rd-party Integrations  
-- 🧩 CMS: WordPress (ACF, Divi, Elementor), WooCommerce  
+- 🧩 CMS: WordPress (ACF, Divi, Elementor), WooCommerce, Plugin Development
 
 ## 🚀 Recent Projects
 
